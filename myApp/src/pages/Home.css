@@ -1,0 +1,23 @@
+.main-Card{
+    border-radius: 35px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block !important;
+    margin-top: 100px;
+    padding: 35px;
+}
+.title{
+    font-size: 50px;
+    color:darkorange;
+
+}
+
+.btn-start{
+    margin-left: auto;
+    margin-right: auto;
+    display: block !important; 
+    margin-top: 2rem; 
+    border-radius: 12px;
+    
+   
+}
